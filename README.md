@@ -32,7 +32,7 @@
 - MOSI ………………………………………… PA7
 ## Cài đặt
 Thư viện viết dựa trên STM32CubeIDE, sử dụng HAL để có thể dùng các hàm truyền nhận SPI
-> 1. Cài đặt STM32CubeIDE tại [Download.](https://www.st.com/en/development-tools/stm32cubeide.html)
+> 1. Cài đặt STM32CubeIDE tại https://www.st.com/en/development-tools/stm32cubeide.html
 > 2. Download hoặc copy source về
 > 3. Khởi tạo project
 > 4. Chọn SPI1 -> Mode: Mode: Full-Duplex Master, Disable cái Hardware NSS Signal(vì ta dùng code để tạo tín hiệu tại chân NSS/CSN)
@@ -41,5 +41,5 @@ Thư viện viết dựa trên STM32CubeIDE, sử dụng HAL để có thể dù
 > 7. SYSCLK cho max 72Mhz
 > 8. Copy lại file main vào project
 ## Tài liệu
-- Reference manual STM32: [Reference Manual.](https://github.com/kiennkt/STM32F1/blob/main/Documents/Reference.pdf)
-- Product Specification nRF24L01: [Product Specification nRF24L01.](Product Specification nRF24L01)
+- Reference manual STM32: [Reference Manual](https://github.com/kiennkt/STM32F1/blob/main/Documents/Reference.pdf)
+- Product Specification nRF24L01: [Product Specification nRF24L01](https://github.com/kiennkt/STM32F1/blob/main/Documents/nRF24L01_Product_Specification_v2_0-9199.pdf)
