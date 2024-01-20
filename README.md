@@ -41,5 +41,5 @@ Thư viện viết dựa trên STM32CubeIDE, sử dụng HAL để có thể dù
 > 7. SYSCLK cho max 72Mhz
 > 8. Copy lại file main vào project
 ## Tài liệu
-- Reference manual STM32: [Reference Manual](https://github.com/kiennkt/STM32F1/blob/main/Documents/Reference.pdf)
-- Product Specification nRF24L01: [Product Specification nRF24L01](https://github.com/kiennkt/STM32F1/blob/main/Documents/nRF24L01_Product_Specification_v2_0-9199.pdf)
+- [Reference Manual STM32F1](https://github.com/kiennkt/STM32F1/blob/main/Documents/Reference.pdf)
+- [Product Specification nRF24L01](https://github.com/kiennkt/STM32F1/blob/main/Documents/nRF24L01_Product_Specification_v2_0-9199.pdf)
